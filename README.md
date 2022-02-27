@@ -16,8 +16,12 @@ This landing page doesn't require any setup. Please use the live live version to
 
 #### Live Link
 
-(Click here to view the live version)[link]
+[Click here to view the live version](link)
 
 #### License Agreement
 
-(View the License Agreement)[LICENSE]
+[View the License Agreement](LICENSE)
+
+#### Mockup Designs
+
+[Click to view project designs](link)
