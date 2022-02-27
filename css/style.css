@@ -7,6 +7,10 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Hero section styling */
 
 .hero-section {
@@ -108,13 +112,14 @@ h4 {
     padding: 14px 130px 14px 15px;
     border: 2px solid crimson;
     outline: none;
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
 .form-box form input:last-child {
     position: absolute;
     display: inline-block;
     outline: none;
+    cursor: pointer;
     border: none;
     padding: 10px 30px;
     border-radius: 30px;
