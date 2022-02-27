@@ -217,7 +217,7 @@ button:hover {
 }
 
 .p-card {
-    height: auto;
+    height: 500px;
     width: 335px;
     padding: 20px 35px;
     background: #191919;
