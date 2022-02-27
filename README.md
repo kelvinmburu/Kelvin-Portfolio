@@ -16,7 +16,7 @@ This landing page doesn't require any setup. Please use the live live version to
 
 #### Live Link
 
-[Click here to view the live version](link)
+[Click here to view the live demo](https://kelvinmburu.github.io/Kelvin-Portfolio/)
 
 #### License Agreement
 
